@@ -1,5 +1,5 @@
 package com.pokemones;
 
 public enum Tipo {
-	Normal, Fuego, Agua, Planta, Electrico, Tierra;
+	FUEGO, AGUA, PLANTA, ELÉCTRICO;
 }
